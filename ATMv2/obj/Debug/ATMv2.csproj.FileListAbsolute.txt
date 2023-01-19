@@ -1,0 +1,15 @@
+F:\Study\C#\ATM\ATMv2\ATMv2\bin\Debug\ATMv2.exe.config
+F:\Study\C#\ATM\ATMv2\ATMv2\bin\Debug\ATMv2.exe
+F:\Study\C#\ATM\ATMv2\ATMv2\bin\Debug\ATMv2.pdb
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.csproj.AssemblyReference.cache
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.csproj.SuggestedBindingRedirects.cache
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.Form1.resources
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.LoginForm.resources
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.Properties.Resources.resources
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.RegisterForm.resources
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.csproj.GenerateResource.cache
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.csproj.CoreCompileInputs.cache
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.exe
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.pdb
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.MenuForm.resources
+F:\Study\C#\ATM\ATMv2\ATMv2\obj\Debug\ATMv2.DepositForm.resources
